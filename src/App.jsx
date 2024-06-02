@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import restaurant from "./assets/restaurant.jpg";
 function App() {
+  
   return (
     <div>
       <div className="font-bold flex items-center gap-2 text-lg sticky top-5 pl-2">
